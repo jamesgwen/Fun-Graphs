@@ -3,7 +3,7 @@ This is a collection of graphs I have either made for courses or just for fun!
 
 Images include:
 - West Germany vs East Germany in the Olympics 
-![alt text](https://github.com/jamesgwen/Fun-Graphs/blob/main/Germany_Olympics.png?raw=true)
+<img align="left" width="100" height="100" src="https://github.com/jamesgwen/Fun-Graphs/blob/main/Germany_Olympics.png">
 
 - Bacteria in meat
 <br />
