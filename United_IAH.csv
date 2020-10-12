@@ -1,0 +1,13 @@
+year, month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct, weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted, arr_delay, carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2016,9,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",4401,482,182.24,17.83,135.86,0,146.08,23,8,31093,12451,862,5526,0,12254
+2016,10,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",4968,459,197.87,6.76,75.54,1,177.83,34,2,28840,14150,600,2358,53,11679
+2016,11,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",4687,474,168.3,7.39,125.41,0,172.9,8,5,29186,10997,539,4390,0,13260
+2016,12,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",5021,810,308.3,31.7,200.02,1,268.98,27,1,56970,21389,3266,9849,37,22429
+2017,1,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",4800,665,231.62,27.99,173.91,1,230.48,27,18,45459,17430,1637,6921,27,19444
+2017,2,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",4387,476,170.03,13.21,116.22,0,176.54,25,3,35028,11914,1152,5212,0,16750
+2017,3,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",5008,582,184.15,6.69,178.24,0,212.92,35,13,34482,12299,217,7683,0,14283
+2017,4,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",4475,497,143.48,9.62,165.75,0,178.15,3,19,32794,10548,1009,7350,0,13887
+2017,5,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",5177,566,172.63,13.82,185.73,0,193.82,10,10,43736,14496,1470,9974,0,17796
+2017,6,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",5160,799,210.4,30.5,267.55,0,290.55,20,12,61163,20626,2272,11943,0,26322
+2017,7,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",5212,803,222.38,44.04,215.08,0,321.5,35,30,66356,17292,3821,14118,0,31125
+2017,8,UA,United Air Lines Inc.,IAH,"Houston, TX: George Bush Intercontinental/Houston",5202,737,160.95,42.6,260.93,0,272.52,905,20,52599,10701,3369,14110,0,24419

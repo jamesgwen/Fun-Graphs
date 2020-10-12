@@ -1,0 +1,13 @@
+year, month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct, weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted, arr_delay, carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2016,9,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2397,595,159.54,12.68,303.61,0,119.18,11,1,30453,8618,873,10543,0,10419
+2016,10,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2558,781,223.55,1.77,398.67,0,157.01,15,1,40761,12138,89,14827,0,13707
+2016,11,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2323,478,131.46,5.77,243.48,0,97.29,6,5,22451,6858,436,7906,0,7251
+2016,12,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2365,944,238.42,27.23,513.39,0,164.95,14,13,57525,13980,3316,24335,0,15894
+2017,1,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2061,637,167.89,12.74,351.24,0,105.13,5,1,36722,11675,815,15324,0,8908
+2017,2,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",1857,504,101.11,7.65,287.22,0,108.02,10,4,30548,7049,734,13191,0,9574
+2017,3,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2212,591,134.2,7.32,343.51,0,105.97,23,6,33390,11336,290,13533,0,8231
+2017,4,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2172,572,115.68,7.92,342.84,0,105.56,2,2,32575,7345,481,14135,0,10614
+2017,5,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2350,712,106.73,11.35,477.43,0,116.49,3,2,41139,11128,1277,20189,0,8545
+2017,6,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2425,443,113.36,19.73,165.02,0,144.89,7,1,29098,8605,1531,6240,0,12722
+2017,7,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2495,402,118.03,29.72,114.24,0,140.01,7,1,28090,8978,2270,4304,0,12538
+2017,8,UA,United Air Lines Inc.,LAX,"Los Angeles, CA: Los Angeles International",2571,478,130.01,28.72,155.13,0,164.14,62,2,32571,9254,2877,5766,0,14674

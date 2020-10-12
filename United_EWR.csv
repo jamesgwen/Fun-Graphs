@@ -1,0 +1,13 @@
+year, month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct, weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted, arr_delay, carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2016,9,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4248,830,207.29,28.87,379.23,0,214.61,15,6,56498,14461,2127,19041,0,20869
+2016,10,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4527,695,207.14,6.67,265.79,0,215.4,46,22,45643,14449,373,13800,0,17021
+2016,11,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4314,952,201.17,7.43,571.4,0,172.01,5,9,59197,12641,640,31107,0,14809
+2016,12,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4357,1115,234.52,18.27,541.08,1.73,319.4,46,7,85482,17405,2352,35401,105,30219
+2017,1,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4262,1078,235.38,17.69,592.69,1,231.24,36,6,84363,19432,1199,38310,21,25401
+2017,2,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4010,862,182.17,12.72,508.3,0,158.82,115,12,64343,12436,1990,33559,0,16358
+2017,3,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4939,1246,232.53,20.64,689.61,0,303.22,198,6,96171,18047,1978,46983,0,29163
+2017,4,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4635,1209,207.76,11.52,713.59,0,276.14,6,5,96743,17643,763,49659,0,28678
+2017,5,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4622,1448,181.13,11,1018.42,0,237.45,13,26,114347,17515,1063,70274,0,25495
+2017,6,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4574,1346,207.83,21.32,803.07,0,313.78,40,16,108562,19452,1543,57080,0,30487
+2017,7,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4652,1331,173.94,34.75,778.68,0,343.63,50,21,126981,19640,3560,67131,0,36650
+2017,8,UA,United Air Lines Inc.,EWR,"Newark, NJ: Newark Liberty International",4772,1122,177.51,33.2,618.15,1,292.14,114,50,97117,17951,3359,45306,27,30474

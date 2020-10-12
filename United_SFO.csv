@@ -1,0 +1,13 @@
+year, month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct, weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted, arr_delay, carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2016,9,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4693,711,217.99,16.84,279.12,0,197.05,26,9,44932,15195,809,13155,0,15773
+2016,10,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4829,1352,252.83,10.64,812.67,0,275.86,38,6,105380,16144,538,62962,0,25736
+2016,11,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4373,670,187.13,6.66,300.73,0,175.48,16,4,41268,11472,581,15668,0,13547
+2016,12,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4398,1409,353.01,50.02,704.97,2,299,32,15,93635,23177,6444,38384,32,25598
+2017,1,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",3807,1233,216.02,28.31,757.63,1,230.05,27,21,97808,19199,1780,52303,44,24482
+2017,2,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",3582,1182,170.24,15.21,777.31,0,219.25,20,9,98294,13254,1175,61599,0,22266
+2017,3,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4470,948,196.32,11.21,498.18,0,242.29,38,5,67325,16092,697,28667,0,21869
+2017,4,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4345,1430,172.49,11.95,1012.27,0,233.29,6,6,115238,12192,857,79195,0,22994
+2017,5,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",4733,1161,181.81,8.74,735.73,0,234.73,9,1,81808,13261,1198,49320,0,18029
+2017,6,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",5118,1266,252.83,28.25,657.71,0,327.22,13,5,88410,21295,2369,37429,0,27317
+2017,7,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",5372,934,216.07,36.36,352.82,0,328.74,15,4,68595,19648,3770,16809,0,28368
+2017,8,UA,United Air Lines Inc.,SFO,"San Francisco, CA: San Francisco International",6027,1616,233.25,48,940.14,1.19,393.41,83,4,111012,19528,4317,54826,81,32260

@@ -1,0 +1,13 @@
+year, month,carrier,carrier_name,airport,airport_name,arr_flights,arr_del15,carrier_ct, weather_ct,nas_ct,security_ct,late_aircraft_ct,arr_cancelled,arr_diverted, arr_delay, carrier_delay,weather_delay,nas_delay,security_delay,late_aircraft_delay
+2016,9,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",6735,1104,276.27,27.37,476.14,0,324.22,39,24,84494,19311,2173,32001,0,31009
+2016,10,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",7017,1079,287.35,11.94,390.35,0,389.36,47,7,67235,17885,687,14751,0,33912
+2016,11,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",6348,811,234.95,15.74,294.69,0,265.61,26,14,52989,14728,1229,15780,0,21252
+2016,12,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",5640,1015,290.66,34.19,334.27,0.65,355.23,158,3,79171,16905,3648,24947,13,33658
+2017,1,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",5028,832,244.88,38.97,286.23,0,261.93,24,8,60067,17694,2924,14974,0,24475
+2017,2,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",4704,599,192.99,20.13,165.49,0,220.4,33,7,44876,15765,1354,8211,0,19546
+2017,3,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",5704,915,219.51,16.32,389.7,0,289.47,57,3,64552,16629,1547,22452,0,23924
+2017,4,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",5535,715,181.02,10.99,275.69,0,247.31,5,8,50626,12552,1314,14167,0,22593
+2017,5,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",6225,786,198.33,21.65,286.58,0,279.43,9,15,62465,18665,3998,13102,0,26700
+2017,6,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",6789,1203,258.53,34.81,474.47,1,434.19,56,40,110664,29576,4825,30253,117,45893
+2017,7,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",7014,1497,278.78,45.98,608.38,0,563.87,99,51,132013,25449,5930,46346,0,54288
+2017,8,UA,United Air Lines Inc.,ORD,"Chicago, IL: Chicago O'Hare International",7161,1109,228.39,49.15,431.48,0,399.97,121,39,83986,17381,4952,24487,0,37166
